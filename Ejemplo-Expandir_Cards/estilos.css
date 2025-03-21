@@ -65,3 +65,25 @@ body{
     opacity: 1;
     transition: opacity 0.3s ease-in 0.4s;
 }
+.uno{
+    background-image: url("images/lanzarote.jpg")
+}
+.dos{
+    background-image: url("images/fuerteventura.jpg")
+}
+.tres{
+    background-image: url("images/grancanaria.jpg")
+}
+.cuatro{
+    background-image: url("images/tenerife.webp")
+}
+.cinco{
+    background-image: url("images/La-Gomera.webp")
+}   
+.seis{
+    background-image: url("images/elhierro.jpg")
+}
+.siete{
+    background-image: url("images/lapalma.jpg")
+}
+
