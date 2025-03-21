@@ -7,8 +7,8 @@
 }
 
 body{
-    background: linear-gradient(#95bee4,#e6eef8);
-    font-family: 'Muli', sans-serif;
+    background: linear-gradient(#e6eef8, #78aee1, #e4dd95);
+    font-family: 'Roboto', sans-serif;
 }
 
 .main{
@@ -21,12 +21,13 @@ body{
 }
 
 .title{
-    font-size: 38px;
+    font-size: 2.8em;
     color: #215183;
 }
 
 .paragraph{
     width: 60vw;
+    font-size: 1.2em;
     text-align: center;
     color: #14273d;
 }
